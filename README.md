@@ -44,3 +44,14 @@ After cloning, follow these steps to run the website in Google Chrome:
 1. Navigate to the project folder where the files are located.
 2. Locate the index.html file.
 3. Right-click on the index.html file and select "Open With" → "Google Chrome".
+
+---
+
+## 👤 About This Project  
+
+This portfolio website was created to improve my skills as a software developer. It is built using **HTML**, **CSS**, and **JavaScript** to provide a responsive and modern design. 
+
+Created by: **Ishan Madhusha**  
+GitHub: [PAIshanMadusha](https://github.com/PAIshanMadusha)
+
+Feel free to explore my work and get in touch if you'd like to collaborate!
