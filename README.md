@@ -19,3 +19,26 @@ A responsive and modern personal portfolio website built with HTML, CSS, and Jav
   <img src="https://github.com/user-attachments/assets/fb4d7e9b-655b-4686-8360-29425348fc8c" alt="Screenshot 2" width="260">&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/010e6c2c-c11a-4b6d-a6a2-8cee45e7e1d6" alt="Screenshot 3" width="260">
 </p>
+
+---
+## 🚀 Live Demo  
+### **You can view the live demo of the portfolio here:**  
+[🔗 View Live Portfolio Website](https://paishanmadusha.github.io/portfolio-site/)
+
+## 📥 Installation & Setup  
+
+### **1️⃣ Clone the Repository**  
+To clone the repository, open your terminal and run the following command:  
+```bash
+git clone https://github.com/yourusername/portfolio-site.git
+cd portfolio-site
+```
+### **2️⃣ Open in a Code Editor**
+Once cloned, you can open the project folder in your preferred code editor (e.g., VS Code).
+
+### **3️⃣ Run the Project in Google Chrome**
+After cloning, follow these steps to run the website in Google Chrome:
+
+1. Navigate to the project folder where the files are located.
+2. Locate the index.html file.
+3. Right-click on the index.html file and select "Open With" → "Google Chrome".
