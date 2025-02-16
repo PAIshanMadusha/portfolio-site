@@ -12,7 +12,7 @@ A responsive and modern personal portfolio website built with HTML, CSS, and Jav
   <img src="https://github.com/user-attachments/assets/b0134dfe-4058-4dae-bd99-227f43d94ad7" alt="Screenshot 4" width="344">
 </p>
 
-##  Responsive Design
+##  Responsive Design:
 ---
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5c0dca56-38a5-4059-a0c1-ccbd9cf7031a" alt="Screenshot 1" width="260">&nbsp;&nbsp;&nbsp;
