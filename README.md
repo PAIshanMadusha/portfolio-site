@@ -5,11 +5,11 @@ A responsive and modern personal portfolio website built with HTML, CSS, and Jav
 ## System Screenshots:
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/90230d28-75c5-4bf5-b073-d2283c16a8ca" alt="Screenshot 1" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/2988b453-d635-4450-b17f-0978c8ba239e" alt="Screenshot 2" width="400">
+  <img src="https://github.com/user-attachments/assets/90230d28-75c5-4bf5-b073-d2283c16a8ca" alt="Screenshot 1" width="340">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/2988b453-d635-4450-b17f-0978c8ba239e" alt="Screenshot 2" width="340">
   <br><br>
-  <img src="https://github.com/user-attachments/assets/102b36ea-1bc9-41cb-a9ff-7daf6bba9837" alt="Screenshot 3" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/b0134dfe-4058-4dae-bd99-227f43d94ad7" alt="Screenshot 4" width="404">
+  <img src="https://github.com/user-attachments/assets/102b36ea-1bc9-41cb-a9ff-7daf6bba9837" alt="Screenshot 3" width="340">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/b0134dfe-4058-4dae-bd99-227f43d94ad7" alt="Screenshot 4" width="344">
 </p>
 
 ##  Responsive Design
