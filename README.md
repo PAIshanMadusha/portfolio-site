@@ -25,12 +25,14 @@ A responsive and modern personal portfolio website built with HTML, CSS, and Jav
 ### **You can view the live demo of the portfolio here:**  
 [🔗 View Live Portfolio Website](https://paishanmadusha.github.io/portfolio-site/)
 
+---
+
 ## 📥 Installation & Setup  
 
 ### **1️⃣ Clone the Repository**  
 To clone the repository, open your terminal and run the following command:  
 ```bash
-git clone https://github.com/yourusername/portfolio-site.git
+https://github.com/PAIshanMadusha/portfolio-site.git
 cd portfolio-site
 ```
 ### **2️⃣ Open in a Code Editor**
